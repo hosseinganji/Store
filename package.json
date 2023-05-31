@@ -1,0 +1,30 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@coreui/coreui": "^4.0.2",
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.1.2",
+        "bootstrap": "~5.1.3",
+        "jquery-ui": "^1.13.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "resolve-url-loader": "^4.0.0",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@majidh1/jalalidatepicker": "^0.9.3",
+        "bootstrap-select": "^1.13.18",
+        "font-awesome": "^4.7.0",
+        "gridjs": "^6.0.6",
+        "jquery": "^3.6.3",
+        "md.bootstrappersiandatetimepicker": "^4.2.4",
+        "persian-datepicker": "^1.2.0",
+        "sweetalert2": "^11.7.3"
+    }
+}
